@@ -1,0 +1,319 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The decision &amp; clearing of the great point now in controversie about the interest of Christ and the civill magistrate in the rule of government in this world stated according to the word of truth and presented to the Parliament of this Common-wealth and to all other powers in the world where it may come, or to any that desire satisfaction in this matter / written by T. Collier.</title>
+            <author>Collier, Thomas, fl. 1691.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1659</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 39 KB of XML-encoded text transcribed from 11 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A33931</idno>
+            <idno type="STC">Wing C5276</idno>
+            <idno type="STC">ESTC R29644</idno>
+            <idno type="EEBO-CITATION">11184803</idno>
+            <idno type="OCLC">ocm 11184803</idno>
+            <idno type="VID">46606</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A33931)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 46606)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1438:17)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The decision &amp; clearing of the great point now in controversie about the interest of Christ and the civill magistrate in the rule of government in this world stated according to the word of truth and presented to the Parliament of this Common-wealth and to all other powers in the world where it may come, or to any that desire satisfaction in this matter / written by T. Collier.</title>
+                  <author>Collier, Thomas, fl. 1691.</author>
+               </titleStmt>
+               <extent>[2], 16 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for G.C. ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1659.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Church and state --  England.</term>
+               <term>Ecclesiastical law.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-06</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-09</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2013-09</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:46606:1" rendition="simple:additions"/>
+            <p>THE DECISION &amp; CLEARING OF The great Point now in <hi>Controverſie</hi> About the <hi>INTEREST</hi> of <hi>CHRIST,</hi> And the Civill Magiſtrate, In the Rule of <hi>Government</hi> in this WORLD.</p>
+            <p>Stated according to the <hi>Word</hi> of <hi>TRUTH;</hi> AND Preſented to the PARLIAMENT Of this <hi>COMMON-WEALTH;</hi> AND To all other <hi>Powers</hi> in the World where it may come; Or, to any that deſire ſatisfaction in this Matter.</p>
+            <p>VVritten by <hi>T. Collier.</hi>
+            </p>
+            <q>
+               <bibl>Mat. 22. 21.</bibl> Render unto Caeſar, the things that are Caeſar's: And to God, the things that are God's.</q>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>G. C.</hi> and are to be ſold at the <hi>Black-<gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Eagle,</hi> neer the Weſt end of <hi>Pauls,</hi> 1659.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:46606:2"/>
+            <pb facs="tcp:46606:2"/>
+            <head>To the Supream Authority, the Parliament of the Common-wealth of <hi>Eng<g ref="char:EOLhyphen"/>land,</hi> and the Dominions thereof.</head>
+            <p>
+               <seg rend="decorInit">I</seg> Have in this ſmall Treatiſe been (at leaſt) endea<g ref="char:EOLhyphen"/>vouring to prepare and preſent unto you a ſubject of higheſt Concernment at this day, <hi>(i. e.)</hi> rightly to ſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ver and distinguiſh between the intereſt of Chriſt and the Magiſtrates, or Powers of this world, in matters relating to Government, it having been the unhappy part of moſt of the Powers of this world to intermix and mingl<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> their Power with that which the Lord hath reſerved to himſelf, <hi>(i. e.)</hi> Rule and Dominion in Divine Things, in and over the con<g ref="char:EOLhyphen"/>ſciences of men, which is (alone) the Lords Prerogative in that little Kingdom he hath reſerved to himſelf: I had prepared it be<g ref="char:EOLhyphen"/>fore, but now preſent it unto you, whom (after ſo long empting from veſſel to veſſel) I may ſuppoſe are made willing to be acquainted with the Lords mind, and your duty or work in this matter, which is to let the oppreſſed go free.</p>
+            <p>I have no ground to queſtion but that many (if not moſt) among you in this day of light, are principled in this t<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>uth already; yet (I ſuppoſe) this p<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>abour of him that truly loves Truth and Peace, with the true Goſpel-liberty, may be both accepted and of uſe, if not to inform, y<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t to confirm in a truth of ſuch importance. I have in this Trea<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ſe endeavoured truly to ſtate the <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>agiſtrates Part, (as to Govemrnent) and the Lords, and cleared this, Tha<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ule in Divine things belongs only to the Lord, and in civil things <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nto the Magiſtrate; I have given the grounds, with the dangers
+<pb facs="tcp:46606:3"/> of the Magiſtrates intermedling with that which is none of his, I am not ignorant of the often urging of that word of Chriſt, Luke 14. 23. <hi>Compel them to come in;</hi> although it is as often abuſed from the real intention of our Lord therein, which is a Miniſterial compulſion by the Goſpel-invitation, to us poor periſh<g ref="char:EOLhyphen"/>ing Gentiles; the high act of Gods grace that ſuch a compulſion is come forth to us.</p>
+            <p>I have endeavoured plainneſs (as becomes the Miniſtry of the New-Teſtament) and brevity, that ſo a little time might give you the reading thereof. Oh that the God of Grace (who hath begun his wonders amongſt us) would be pleaſed to engage the Powers of this Common-wealth wholly to di<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>avow the claim of any intereſt in Dominion, (that ſo clearly and undoubted<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y is our Lords Prero<g ref="char:EOLhyphen"/>gative) that you might become a Pattern to the Nations round you, and by your practice preach this to all the world, <hi>That Rule in Divine things belongs to the Lord;</hi> doubtleſs if it convince them not, it ſhall be a witneſs againſt them; for on this account ſhall the Nations be broken, and th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>i<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> breach will be grievous and in<g ref="char:EOLhyphen"/>curable. You being once more come to ſit at ſtern in this Common<g ref="char:EOLhyphen"/>wealth; Who knows but t<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>at God hath been proving and refining you, that ſo you by whom he began the work in theſe Nations, might be honoured by him above all others in the further perfect<g ref="char:EOLhyphen"/>ing of it? Oh be not high-minded, but fear, humble your ſelves, to walk with God; know who it is that hath entruſted you, and fear b<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>fore him; be wiſe as Serpents, and harmleſs as D<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ves. ſo may you expect a bleſſing from Heaven, &amp; your endeavours crown<g ref="char:EOLhyphen"/>ed both <hi>here</hi> and <hi>hereafter:</hi> So prayeth he who for Zions ſake cannot hold his peace:</p>
+            <closer>
+               <signed>T. C.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:46606:3"/>
+            <head>The deciſion of the great Point in Controverſie, <hi>(i. e.)</hi> The Intereſt of Chriſt and the Magiſtrates in the Rule and Govern<g ref="char:EOLhyphen"/>ment in this World.</head>
+            <head type="sub">Preſented to the Supream Authority, the Parliament of the Com<g ref="char:EOLhyphen"/>mon-wealth of England.</head>
+            <p>
+               <seg rend="decorInit">T</seg>Hat Jeſus Chriſt is Lord of all, <hi>Acts 10. 36. Rom.</hi> 10. 12. is without all queſtion: I ſuppoſe) to all who own the Scriptures of truth: That he is exalted and made <hi>Head over all, to the Church, E<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>h.</hi> 1. 20, 21, 22. and that he hath the Government of the World in his hand, <hi>Matth.</hi> 28. 18. al<g ref="char:EOLhyphen"/>though this be not ſo viſibly made manifeſt as in the fulneſs of time it ſhall be, <hi>Heb. 2. 8. we do not yet ſee all things under him;</hi> by faith we believe it as it's made manifeſt in his Word.</p>
+            <p>And it is as unqueſtionable, That the Powers and Magi<g ref="char:EOLhyphen"/>ſtrates of this World have from, and under him a right of Rule and Government committed to them, in which they ought to be faithful: And in as much as it is a great Point now in controverſie, What Power it is that the Lord hath ex<g ref="char:EOLhyphen"/>tended to Magiſtrates, &amp; what are the limitations &amp; bounds thereof; And, What it is he hath reſerved to himſelf; Or, Whethether he hath reſerved any thing in point of Go<g ref="char:EOLhyphen"/>vernment to himſelf or no, or committed all to the Magi<g ref="char:EOLhyphen"/>ſtrate, both Eccleſiaſtical as well as Civil: My Work will be
+<pb n="2" facs="tcp:46606:4"/> in theſe enſuing lines to be diſcourſing and diſcovering the truth in this matter; and I cannot reaſonably ſuppoſe (it being a matter of ſuch great concernment) that it ſhould be taken any otherwiſe then acceptably, it being no more (as I am in conſcience convinced) then the diſcharge of my duty to the Lord, and the Magiſtrates under whom I live.</p>
+            <p>And as to the Point in hand, I ſay, 1. That Jeſus Chriſt (to whom all Power in Heaven and Earth is given) hath committed an Authoritative Power and Rule to Magiſtrates in this World, till his coming again from Heaven; the truth of this is evidenced by the Word of Truth, <hi>Prov. 8. 15, 16. By me Kings reign, and Princes decree Juſtice; By me Princes rule, and Nobles, even all the Judges of the earth, Rom. 13. 1. There is no Power but of God, the Powers that be are ordained of God;</hi> So that the Magiſterial Power is ordained of God, and by him it is they rule, <hi>(i. e.)</hi> By his Ordinance and Appoint<g ref="char:EOLhyphen"/>ment.</p>
+            <p>Yet 2ly. Chriſt hath reſerved a Room and Place of Rule for himſelſelf in and over the World; hence he is ſaid to be <hi>Lord of all,</hi> Lord of quick and dead; Head over all to the Church, and over all <hi>Principallity and Power, and every Name that is named, not onely in this world, but likewiſe in that which is to come;</hi> ſo that the great query now will be, What Power it is the Lord hath given to the Magiſtrate, and what it is he hath reſerved to himſelf; the deciding whereof vvill be of great and ſingular concernment at this day.</p>
+            <p>1. What he hath given to the Magiſtrate, and that is Au<g ref="char:EOLhyphen"/>thority and Power to rule over men, <hi>(i. e.)</hi> To rule over the Bodies and Eſtates of men for good, and no other.</p>
+            <p>And 2. That which he hath reſerved to himſelf lieth eſ<g ref="char:EOLhyphen"/>pecially in theſe four things:</p>
+            <p n="1">1. The Power of a ſecret and inviſible ordering and diſ<g ref="char:EOLhyphen"/>poſing of all Governments, to carry on, and bring about his own deſign for his own glory and his Churches good; Hence he is ſaid to be <hi>Head over all things to the Church.</hi>
+            </p>
+            <p n="2">2. He hath reſerved the Povver of pulling down, and
+<pb n="3" facs="tcp:46606:4"/> ſetting up of whom he will, <hi>Dan.</hi> 4. 17. Hence it is that he maketh changes in the Worldly Governments, to the end they might know that the Lord doth rule, and that they do rule by him, and ſhould rule for him.</p>
+            <p n="3">3. He hath reſerved to himſelf the Power of calling all Magiſtrates to account at the great day of Account, in which they muſt be judged according to their diſcharge of that Authority and Truſt committed to them, and repoſed in them: Theſe (I ſuppoſe) every one that hath any awe or fear of God will acknowlege.</p>
+            <p>But 4ly. Chriſt hath reſerved all ſpiritual cauſes relating to matters of Faith and Worſhip to himſelf, and hath be<g ref="char:EOLhyphen"/>truſted no Civil Magiſtrate or Power in Earth vvith this; the proving of vvhich will prove the firſt Aſſertion, <hi>(i. e.)</hi> That the Truſt committed to Magiſtrates is over the Bodies and Eſtates of men, and no otherwiſe; Therefore to prove it, I ſhall preſent ſeveral convincing grounds.</p>
+            <p n="1">1. There is no New-Teſtament Scripture preſents us with the Lords giving up of Authority to Worldly Magi<g ref="char:EOLhyphen"/>ſtrates in matters Eccleſiaſtical, <hi>(i. e.)</hi> Things in, and rela<g ref="char:EOLhyphen"/>ting to matters of Worſhip, that clearly relate to conſci<g ref="char:EOLhyphen"/>ence; if ſo, Hence I reaſon, That Authority which Chriſt hath no where given to Magiſtrates, he hath reſerved to himſelf; but this of ruling of, and over the conſcience, is to where committed by Chriſt to man, <hi>(i. e.)</hi> to Civil Ma<g ref="char:EOLhyphen"/>giſtrates, therefore he hath reſerved it to himſelf.</p>
+            <p>Q. <hi>May we not ſuppoſe that the Scripture intends Spiritual <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>d Eccleſiaſtical Concernments, as well as Civil, when it ſaith, <gap reason="illegible" resp="#MURP" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>a<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> we ſhould be ſubject to every Ordinance of man for the <gap reason="illegible" resp="#MURP" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> ſak<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, &amp;c.</hi>
+            </p>
+            <p>
+               <hi>A.</hi> It is without queſtion to be underſtood in civil things <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nely, there being no Magiſtrates then but ſuch as were ei<g ref="char:EOLhyphen"/>ther Jews or Heathens; if ſubjection in Divine things had <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ep intended, the Apoſtle in that ſaying (and in all others <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>at calls for ſubjecting to Magiſtrates) muſt neceſſarily <gap reason="illegible" resp="#MURP" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ve taught them either to be Jews or Heathens in point of Worſhip; for the Command of the Jewiſh Magiſtrates would
+<pb n="4" facs="tcp:46606:5"/> be to the Old Teſtament-Ceremonies; and of the Gentiles, to their Idoll Temples, if to any thing in Worſhip; ſo that it's queſtionleſs, That it was in civil things that ſubjection is required.</p>
+            <p n="2">2. Ground; In that Chriſts <hi>Kingdom is not of this world, (i. e.)</hi> of the Worldly Government that he hath committed to men; then certainly it muſt be ſome where, <hi>(i. e.)</hi> in the conſciences of his People, there is Chriſts reign; and doubt<g ref="char:EOLhyphen"/>leſs to deny this, <hi>(i. e.)</hi> The Rule of Chriſt by his Word and Spirit in the hearts of his people, and over them in matters of Worſhip, is a tenet very near of kin to Atheiſm.</p>
+            <p n="3">3. In that he hath left in Scripture clear and abſolute Rules for his people to walk by in point of Faith &amp; Wor<g ref="char:EOLhyphen"/>ſhip, unto which it is their duty to take heed until his ſe<g ref="char:EOLhyphen"/>cond coming, <hi>Matth. 28. 18 19. John 14. 15. &amp; chap.</hi> 15. 14. From whence I reaſon thus:</p>
+            <p>That if Chriſt hath left Commands and Rules to his People as to matters of Faith and Practice, then he hath re<g ref="char:EOLhyphen"/>ſerved Authority from the Magiſtrate in this matter. But that he hath left Commands and Rules to his people in this matter, is clear, in which it is their duty to obey him; there<g ref="char:EOLhyphen"/>fore he hath not committed this Authority to the Magi<g ref="char:EOLhyphen"/>ſtrate; for the Magiſtrate may (and that probably too) con<g ref="char:EOLhyphen"/>tradict Chriſts Commands; therefore Chriſt hath prevent<g ref="char:EOLhyphen"/>ed that extremity, in reſerving to himſelf Authority and Rule in Divine things: Hence it is that when Chriſts Law, and the Magiſtrates Will hath come in Competition; the Anſwer is ſtated for us, <hi>Acts 5. 39. Whether it be right in the ſight of God to hearken unto you more then God, judge ye.</hi>
+            </p>
+            <p n="4">4. This truth appears, in that Jeſus Chriſt will judge his people in the day of Account, according to his Word; that being the Rule by which they are to walk, and by which it is they muſt be judged, <hi>John 12. 48. And in the keeping therof there ſhall be great reward, Pſal. 19. 11. Rev.</hi> 22. 14. Therefore he hath not committed this Authority to Magiſtrates, leſt they ſhould turn them aſide from the righteous Rule.</p>
+            <pb n="5" facs="tcp:46606:5"/>
+            <p>And indeed it ſeems to me to be ridiculous and unreaſo<g ref="char:EOLhyphen"/>nable for any one to ſuppoſe that the Lord hath given up his people to the Wills of men in matters of Worſhip, and yet will judge them for not walking according to his Will in his Word; this were (indeed) to make him a hard Maſter, and to lay impoſſibility upon his people.</p>
+            <p n="5">5. As we do not find that Chriſt hath any where reſigned his Authority to the Magiſtrate, ſo neither do we find at a<g ref="char:EOLhyphen"/>ny time, or in any caſe, the Lord to direct his people to the Magiſtrate for counſel or advice in determining Divine things, but the contrary, <hi>(i. e.)</hi> to the Scripture, <hi>Iſay. 8. 20. Job. 5. 39. 2 <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>im. 3. 15.</hi> &amp; to his Miniſters with the church, <hi>A<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>.</hi> 15</p>
+            <p n="6">6. If Authority in Divine things were committed to the Magiſtrate, it muſt be neceſſary to know to what Magi<g ref="char:EOLhyphen"/>ſtrate it is committed, whether to all Magiſtrates in all Na<g ref="char:EOLhyphen"/>tions alike; if ſo, then theſe two impieties will follow; 1. That the Lord hath ſubjected his word and will to the Judgements of Heathen and profane Magiſtrates. Or, 2ly, his people to their wills in point of VVorſhip. Or 2ly, If it be to ſome Magiſtrates, and not to all, <hi>(i. e.)</hi> to Chriſtian Magiſtrates, then the doubt will be, to whom of them it is, there being many ſuppoſing themſelves to be Chriſtian Ma<g ref="char:EOLhyphen"/>giſtrates, and all think themſelves to be in the truth, and moſt of them think themſelves concerned to make provi<g ref="char:EOLhyphen"/>ſion for VVorſhip, and to exerciſe their Power in theſe things and (indeed) the Lord having committed no ſuch thing to any Magiſtrate, there is as much ground for one to claim it, as the other. The Papiſt ſuppoſes all truth to be there, and perſecutes the Proteſtant under the notion of Hereticks. The Proteſtant ſuppoſes the Papiſt to be out, and himſelf to be in the right, and perſecutes the Papiſt: and thus this very principle throws the World into confuſion, every one that can get into Power is ready to make, or (at leaſt) to think himſelf an abſolute god in and over all cau<g ref="char:EOLhyphen"/>ſes, as well Eccleſiaſtical as Civil; and (doubtleſs) it con<g ref="char:EOLhyphen"/>cerns that Magiſtrate that is moſt enlightened in Divine Truth, to be firſt in rejecting and renouncing this authori<g ref="char:EOLhyphen"/>ty
+<pb n="6" facs="tcp:46606:6"/> in Divine things; for (doubtleſs) the moſt enlightened and reformed Proteſtant-Magiſtrate, walking by this Rule, <hi>(i. e.)</hi> Authority in Divine things, <hi>&amp;c.</hi> doth juſtifie all others in their practices, there being as much rule for the one as the other; and ſo it is the ready way for Magiſtrates to be contracting the ſin and guilt of all the civil Magiſtrates, and of all the blood that hath been ſhed on this account.</p>
+            <p n="7">7. If Authority in divine things were committed to the Magiſtrates, this would without all controverſie put an end to the ſufferings of the Saints, for if this power were given to men, then it would be the Saints duty to ſubmit unto them; then whence, and to what purpoſe are all thoſe ſay<g ref="char:EOLhyphen"/>ings of Chriſt in Scripture to ſtrengthen his people againſt, and to comfort them in perſecution, <hi>Matt. 5. Luk. 6. Ioh.</hi> 16. If it were true indeed that Magiſtrates had received this po<g ref="char:EOLhyphen"/>wer from above, then they do well in exerciſing of it ſuta<g ref="char:EOLhyphen"/>ble to their underſtanding, and in puniſhing thoſe that will not ſubmit; and the Lords people do ill, and are juſtly per<g ref="char:EOLhyphen"/>ſecuted for not performing their duty, how then ſhall they be bleſsed in their ſuffering? So then that Principle and Practice that juſtifieth Magiſtrates in a way of perſecution, and condemneth Saints under the notion of Hereticks for their ſuffering for Chriſt, cannot be of God, &amp;c. So that from theſe grounds I undoubtedly conclude, That Jeſus Chriſt hath reſerved to himſelf the power of governing and ruling in, and over his people in all Divine and Reli<g ref="char:EOLhyphen"/>gious concernments and hath not reſigned it to any Magi<g ref="char:EOLhyphen"/>ſterial power on earth.</p>
+            <p>3. And finally, we find it clearly ſtated in the Scripture, that Chriſt hath committed his Authority in matters rela<g ref="char:EOLhyphen"/>ting to VVorſhip, to his Church, and not to the Magiſtrate; Hence Chriſt having ſtated his own power, <hi>Matt.</hi> 28. 18. He promiſeth his preſence with his Church to the end of the world, <hi>ver.</hi> 20. therefore in caſe of offence he directs his to tell it to the Church, <hi>Matt.</hi> 18. 17. there being no higher ap<g ref="char:EOLhyphen"/>peal on Earth for Believers in divine things; and as the Church, ſo is its Government diſtinct from the world, and
+<pb n="7" facs="tcp:46606:6"/> the worldly Government; ſo that that Magiſtrate that aſ<g ref="char:EOLhyphen"/>ſumes this Authority to himſelf, robs the Church of that authority her Lord hath given her, and the authority Chriſt hath left in his church is ſpiritually to be exerciſed; all church-cenſures reacheth in the utmoſt extent to reject and caſt out to the world and to Satan, from whence they came, not to inflict bodily puniſhments, but to endeavour in all the ſaving of the ſoul, <hi>that the fleſh might be deſtroyed, and the ſpirit might be ſaved in the day of the Lord Jeſus.</hi> And in as much as the Lord knows that his church might err in matter of judgement and cenſure about divine things, therefore he hath communicated a power of judgement to the church to be exerciſed according to their light &amp; faith in divine Record, yet hath reſerved to himſelf the power of judging, and that even of all the churches judgements and actions, to be made manifeſt in the day of Chriſt.</p>
+            <p>Obj. <hi>God having once committed the power of judging and ex<g ref="char:EOLhyphen"/>ecuting of his Divine will in point of worſhip to the Magiſtracy of the Jews, (in the Old-Teſtament-Miniſtration) why may we not conclude, it remains a duty under the goſpel, in as much as we find no repeal of that Authority?</hi>
+            </p>
+            <p>
+               <hi>Anſ.</hi> God owning them as they were the natural ſeed of <hi>Abraham,</hi> to be a National church, he made that Church &amp; State one, which is not, nor cannot be ſo in the Goſpel, be<g ref="char:EOLhyphen"/>cauſe he now owns the ſpiritual ſeed in the Goſpel, Church, and Covenant: And further, as he made that Church and State one, ſo he gave the Judicial and Political Law clear to them, and clearly ſtated the Magiſtrates duty on that behalf, but no ſuch thing under the Goſpel.</p>
+            <p>2. The authority of the Magiſtrate under that Miniſtra<g ref="char:EOLhyphen"/>tion, was typical, and preſented Chriſt the great Lord and Law-giver in the Goſpel-miniſtration; for the annoin<g ref="char:EOLhyphen"/>ted Office of Prieſt and King, lead to Chriſt the annointed one; ſo that when Chriſt was come, and had ſuffered and conquered in, and by his ſuffering, he put an end to that Miniſtration, and repealed Prieſthood-government, and that whole miniſtration; ſo that whoever pleads Magi<g ref="char:EOLhyphen"/>ſtrates
+<pb n="8" facs="tcp:46606:7"/> authority in Ecccleſiaſtical cauſes from the Jewiſh conſtitution, doth (conſequently) deny Chriſt to be come in the fleſh, and takes his Government from him; ſo that we rightly underſtanding the Government of the Old Te<g ref="char:EOLhyphen"/>ſtament-Magiſtrates, ſhould rightly be informed to whom the Right of Rule in Divine things, and Eccleſiaſtical con<g ref="char:EOLhyphen"/>cernments do now belong, namely, to Chriſt, into whom the magiſterial power of the Old Teſtament is naturally and properly diſſolv'd as the type into the ſubſtance.</p>
+            <p>
+               <hi>q.</hi> Is it not the Magiſtrates duty to ſee to, and take care of the performance of the firſt table, and to ſee that the will of Chriſt (contained therein) be done by the people?</p>
+            <p>
+               <hi>A.</hi> Doubtleſs it is not any part of his charge or work, and that from the Reaſons already minded; and further, I might truly ſay, That as man is a reaſonable creature, ſo Gods way of working to Divine undertakings, is by the illuminating of his underſtanding through his Word and Spirit, that ſo he might be able to give a reaſon of his hope, and ſerve in Divine things in the liberty of the Goſpel, not having his underſtanding captivated to the will of ano<g ref="char:EOLhyphen"/>ther.</p>
+            <p>q. <hi>Whence ſhould ariſe this great miſtake, as doubtleſs if it be a miſtake, it is a great and dangerous one?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Ignorance and Pride uſhered in this miſtake, and that is it which ſtill endeavours to keep it on foot.</p>
+            <p n="1">1. Ignorance: this ordinarily is the mother of all ſin; and lyeth at the bottom of all miſchiefs; Chriſt was put to death through Ignorance, 1 <hi>Cor.</hi> 2. 8. and it is through Ignorance men put him to death in his Authority, and put to death thoſe that own him in his Authority, <hi>John 16. 2, 3. It is</hi> (ſaith Chriſt) <hi>becauſe they have not known the Father, nor me.</hi>
+            </p>
+            <p n="2">2. Pride flowing from Ignorance, and a deſire of ſelf-exal<g ref="char:EOLhyphen"/>tation: Pride of Magiſtrates, and pride of Miniſters, accom<g ref="char:EOLhyphen"/>panied ſometimes with miſtaken zeal, and ſometimes with enmity, and deſire of revenge, on thoſe who ſubmit not to their wills; witneſs the truth of this. That Perſon or people whoever, that concludes it the Magiſtrates duty to compel to
+<pb n="9" facs="tcp:46606:7"/> Religion think withall its meet they ſhould be uppermoſt to be preſcribing Laws for others. This proclaims it to be a proud, ſelfiſh principle, men while under will not like it, but when over will exerciſe it, this is pride, and a deſire of domi<g ref="char:EOLhyphen"/>nation; for all ſorts of people in the world, diſlikes with, and complaines of a coercive power in matters Spiritual and Di<g ref="char:EOLhyphen"/>vine; unleſs it be when themſelves have the ruling power, and are gotten uppermoſt; Proteſtants complain or Papiſts, and Papiſts of Proteſtants where they are under, and Non-Conformiſts of both; but him that is uppermoſt will rule.</p>
+            <p>q. <hi>But what is the evil and danger incurred, by ta<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ing this authority if ordering and ſetling things relating to the worſhip of God, with a coercive Power.</hi>
+            </p>
+            <p>
+               <hi>Anſw.</hi> 1. It is an intruding into that which they have no right unto, and doubtleſs it is as open a wrong to Jeſus Chriſt, as it is for one Prince to invade anothers Territories, and take away his dominion from him, under pretence of love to him, a ſad ſign and ſymptome of an aſpiring minde, when when men will not be content with what God hath allotted them, and not only to be undermining one another to make themſelves greater, but they dare adventure on the crown and dignity of Jeſus Chriſt.</p>
+            <p>2. Magiſtrates by this Practice do not only intrude them<g ref="char:EOLhyphen"/>ſelves into his authority, where they have no right; but like<g ref="char:EOLhyphen"/>wiſe muſt neceſſarily expoſe themſelves to the great danger of contracting the guilt of the blood od ſouls upon them<g ref="char:EOLhyphen"/>ſelves, And that (firſt) becauſe compulſion by a coercive power, neceſſarily makes a world of Hypocrites and Forma<g ref="char:EOLhyphen"/>liſts; and ſo deceives them with the name and ſuppoſition of Chriſtians and beleevers, when they are ſtrangers to it; whereas otherwiſe through the ſpreading forth of truth in the Goſpel-light; they might in an ordinary way be brought tru<g ref="char:EOLhyphen"/>ly to look after God. Or ſecondly, in caſe the Magiſtrate err himſelf, in the Religion ſet up by him (as its wonder if he do not) and ſo compel to his own will in ſtead of the will of Chriſt; he may be inſtrumental to deſtroy ſouls in deterring them from cloſing with the truth, and compelling them to cloſe vvith his error.</p>
+            <pb n="10" facs="tcp:46606:8"/>
+            <p>3. By this the Magiſtrate proclaims himſelf (in effect) to be infallible, in judging and determining univerſally, in matters of Relgion, which is proper only to Jeſus Chriſt, and ſo exalts himſelf above all that is called God, even above Jeſus Chriſt, in that which is his Prerogative alone, and ſo at leaſt attains to the badge and livery of Antichriſt. This is judged ſo to be, by all reformed Churches, and therefore they apply it to the Pope or Papal power on this account <hi>(i. e.)</hi> his uſurping a power &amp; rule over the Conſciences of the people, and perſe<g ref="char:EOLhyphen"/>cuting all that differ from them, and how thoſe who walk in the ſame ſteps (only their opinion changed in matter of Re<g ref="char:EOLhyphen"/>ligion) will acquit themſelves from the ſame guilt, I leave to themſelves to judge.</p>
+            <p>4. It is that which derogates from the liberty of the Go<g ref="char:EOLhyphen"/>ſpel which Chriſt hath purchaſed by his own blood for his peo<g ref="char:EOLhyphen"/>ple that they might not be the <hi>ſervants of men</hi> in divine things. May vve rationally ſuppoſe that Chriſt hath delivered his peo<g ref="char:EOLhyphen"/>ple from the old Teſtament-Bondage; (that vvas ordained of God himſelf) to deliver them up to the povver and vvills of men, and it may be too, of ſuch men as knovv not God; its true, God hath rather choſen to ſubject his children to the vvills of men in ſuffering, then in ſerving in divine things; if Chriſt had left his people in this matter to the vvills of men, the Goſpel liberty had been much vvorſe then that of the Lavv; <hi>David</hi> vvhen he vvas to chuſe, vvould rather fall into the hands of God, then into the hands of men, becauſe he is mer<g ref="char:EOLhyphen"/>ciful; and ſo tender vvas <hi>Paul</hi> of derogating from the Goſpel<g ref="char:EOLhyphen"/>liberty, that notvvithſtanding he vvas infallibly inſpired, yet uſurps not this povver to himſelf, of having Dominion over the faith of his Brethren, 2 <hi>Cor.</hi> 1. 24.</p>
+            <p>5. The Magiſtrate by this means neceſſarily expoſeth him<g ref="char:EOLhyphen"/>ſelf to the danger of perſecuting Chriſt; For (Firſt) we may yea, we muſt ſuppoſe a poſſibility for Magiſtrates to erre, e<g ref="char:EOLhyphen"/>ſpecially in divine things, being liable to tentations and ſnares above other men; and if they miſs in the leaſt hint or part of truth, and ſo compel from any part of truth to their own er<g ref="char:EOLhyphen"/>ror, and perſecute thoſe that cannot in conſcience ſubmit,
+<pb n="11" facs="tcp:46606:8"/> doubtleſs they become perſecutors of Chriſt. And (Secondly) we may have grounds for all that I know, to judge and hope, that the Lord may have a people that are precious to him, in and under all apprehenſions in Chriſtian profeſſion, (who hold the head) and truely then it concerns the Magiſtrate to look to it, and to ſuccour and delend all in all ſorts of profeſſion, rather then to perſecute any one of Chriſts little ones, the danger of this ſee <hi>Mat.</hi> 18. 6.</p>
+            <p>6. Acts of Rapes and force on the body, in order to bodi<g ref="char:EOLhyphen"/>ly fornication, are judged by the law to be acts of higheſt of<g ref="char:EOLhyphen"/>fence, even fellony deſerving death; but know that acts of force upon the ſoul, to ſpiritual fornication (which is done on all that are forced by a Magiſterial Coerſive power to that in worſhip, which is contrary to conſcience) is a worſe and more dangerous force or Rape, then that on the body to outward bodily fornication. For (firſt) the ſoul is the more ſublime and divine part of man. And (ſecondly) a bodily rape may be (as its generally judged) without ſin in the party that is vi<g ref="char:EOLhyphen"/>olently ſurprized; but this of the ſpiritual force, who ever is conquered by it ſins againſt God, though the thing may be lawful to which he may be compelled, yet to him its ſin, being done againſt faith and conſcience, for whatſoever is not of faith is ſin, ſo that to ſet up a coercive power in Religious matters, is the likelieſt and ſureſt way in the world, to lay a neceſſity of ſinning, or ſuffering, upon all conſciencious people.</p>
+            <p>7. This act in the Proteſtant Magiſtrates, far exceeds that in the papal, and ſo it becomes a force of the higheſt nature; for the Papiſt ſaith to all, That they muſt believe as the Church believes, i. e. the Pope and his Clergy, and to accompliſh this, he keeps them ignorant; permits not the Scripture in their own language, to the end they may believe as the Church believes; the common people ſhall know but what the Church will tell them, and ſo are kept ignorant, and their force is without trouble, for they think they do well, <hi>&amp;c.</hi> But the Pro<g ref="char:EOLhyphen"/>teſtant ſeems to go further. The Scripture ſhall be tranſlated into the mother tongue, that every one may read it; the
+<pb n="12" facs="tcp:46606:9"/> people ſhall be preſſed to buy Bibles, to ſearch the Scriptures, to finde out the minde of God, <hi>&amp;c.</hi> and when all is done, they muſt ſtill believe as the Church believes, <hi>i. e.</hi> as the Miniſter, and Magiſtrate ſhall conclude. It is to invite to ſearch, and ſee with their own eyes, and yet compell to believe what ano<g ref="char:EOLhyphen"/>ther ſees, doubtleſs its not onely an irreligious, but an irra<g ref="char:EOLhyphen"/>tional thing to allow people to ſearch and know, yet will put out their eyes and compel them to ſee with others.</p>
+            <p>I quere whether it would not be a leſſer evil (Pope-like) to keep the Bible in an unknown tongue, and ſo keep the peo<g ref="char:EOLhyphen"/>ple ignorant, then to allow the Bibles, and compell to walk contrary to the light and truth apprehended therein; I mean to the powers thus acting, <hi>Be wiſe now therefore, Oy kings, be inst<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ucted ye Judges of the earth, kiſs the Son leſt he be an<g ref="char:EOLhyphen"/>gry,</hi> &amp;c.</p>
+            <p>8. The Magiſtrate by this, neceſſarily expoſeth himſelf to the greater buſineſs in point of Government, and that unne<g ref="char:EOLhyphen"/>ceſſary and needleſs buſineſs too; Such for which he will have no thank in the day of the Lord, notwithſtanding he may un<g ref="char:EOLhyphen"/>dertake it through miſtaken zeal (being perſwaded thereto, that its his duty to take care for the obſervation of the firſt table, yet it belongs not to him, being no part of that which is committed to his care, by reaſon of which he doth not one<g ref="char:EOLhyphen"/>ly imyloy himſelf about what he hath nought to do; but probably through his zeal in this, neglects the work he is in<g ref="char:EOLhyphen"/>truſted with: See <hi>Pſal.</hi> 82 3, 4. Doubtleſs if Magiſtrates were rightly learned in this truth, it would eaſe them of much burden and care in and about what they ſuppoſe themſelves concerned in, and ſet their hearts more to the work they are rightly called unto.</p>
+            <p>9. By this means Magiſtrates and others lay a foundation of perſecution to themſelves and their poſterity; for if it be lawful for them to uſe a coerſive power in Religious things to<g ref="char:EOLhyphen"/>wards others, then by the ſame rule of reaſon its lawful for another power (if it ſhould ariſe) whoſe apprehenſion may be differing from theirs, to compell them and theirs contrary to their conſciences to that Religion be it what it will, ſo they ſuppoſe it to be truth: And ſo,</p>
+            <pb n="13" facs="tcp:46606:9"/>
+            <p>10: It deſtroys that golden rule of righteouſneſs to be ob<g ref="char:EOLhyphen"/>ſerved of all, as ye would that men ſhould do to you, ſo do ye to them, <hi>&amp;c.</hi>
+            </p>
+            <p>11. And finally, The Magiſtrates by this means, muſt ne<g ref="char:EOLhyphen"/>ceſſarily expoſe themſelves to the greater judgement in the day of account when they ſhall have not onely to account for the bodys and eſtates of men, but for the ſouls of men and for the wrong done to Chriſt and to his tender Lambs. Oh how doth it concern Magiſtrates as well as others, to take heed of heaping, and <hi>treaſuring up of wrath againſt the day of wrath and pe<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>dition of ungoely men:</hi> But to remember the words of Chriſt, <hi>Mat.</hi> 23. 35.</p>
+            <p>
+               <hi>Ob<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ect.</hi> Probably it may be objected (notwithſtanding all that hath been ſaid we judge it to be our duty to take the care of Gods worſhip, and we are ſo perſwaded by divines: That it is the firſt work we ſhould be about to prefer Gods concern<g ref="char:EOLhyphen"/>ments before our own, if we miſcarry in it, the danger will be to our ſelves, for we own Chriſt to be above us, and ex<g ref="char:EOLhyphen"/>pect to give an account to him for what we do in divine things, aſwell as civil, and therefore muſt adventure our account for the one as well as the other.</p>
+            <p>
+               <hi>Anſw.</hi> The firſt, <hi>i. e.</hi> Government in civil concernments, is clearly committed to the Magiſtrates, and therefore may be lawfully and comfortably undertaken, with an expectation of ſtanding in the day of tryal, <hi>i. e.</hi> of thoſe that have been con<g ref="char:EOLhyphen"/>ſcientious and faithful to God in the diſcharge of that truſt, but as for divine concernments that is altogether intruded in<g ref="char:EOLhyphen"/>to, and therefore an account muſt be given for the very act of undertaking and entering into, or aſſuming of that power, that is not betruſted with any Magiſtrate on earth, and is therefore as clearly an act of treaſon (againſt the King of Kings) to enter upon and take his kingdom from him, as it is for a ſubject (though in pretence of love) without any rule or reaſon, to endeavor to take the Kingdome and Government from his prince; therefore let Magiſtrates learn to content themſelves with what God hath given them, and let the Lord alone with what he hath reſerved to himſelf.</p>
+            <pb n="14" facs="tcp:46606:10"/>
+            <p>
+               <hi>Obj.</hi> The Apoſtle ſaith, That Magiſtrates are for the praiſe of them that do well, <hi>&amp;c.</hi>
+            </p>
+            <p>Anſw. Its true they ſhould be ſo, <hi>i. e.</hi> that walk civilly, and orderly in ſubjection to the Laws of that power, under which they live, in civil reſpects; the Apoſtle intends not divine things, for the Magiſtrates were then heathens; but as to things relating to this life, I do not think that there was ever a Ma<g ref="char:EOLhyphen"/>giſtracy yet in the world, no not among the heathen, but it had ſo much of the authority of God ſtampt upon it, that it was in it ſelf for the praiſe of them that did well, <hi>i. e.</hi> Thoſe that walked righteouſly and in offenſively on a civil account. However all men, <hi>i. e.</hi> Magiſtrates have failed that have med<g ref="char:EOLhyphen"/>led with things divine, making that one part of their work, and particular acts of unrighteouſneſs on the outward account might and may be committed (and doubt<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eſs was) either through ignorance or unrighteouſneſs in the Law-makers, or ſuch as did erect them; but I do not judge that ever there hath been any Magiſterial authority in the world, but hath countenanced civil righteouſneſs amongſt men, and diſcoun<g ref="char:EOLhyphen"/>tenanced unrighteouſneſs, and ſo it hath been for the praiſe of them that do well,</p>
+            <p>Q. If the caſe be thus, What then is the Magiſtrates duty in Religious matters? hath he nothing at all to do in it?</p>
+            <p>A. As a Magiſttrate doubtleſs he hath not, in any way of reſtraining from, or of compelling to any Religion, it be<g ref="char:EOLhyphen"/>ing the Lords work; and without the birth from above, there can be no entrance into the Kingdom. As a Chri<g ref="char:EOLhyphen"/>ſtian, he ought to walk according to the rule of Truth him ſelf; according to his light and faith, and to protect and defend all in the peaceable profeſſion of what they believe to be the truth of God: Commending and preferring the holy Scriptures; incouraging all to a conſciencious ſearching ofter, and living according to, the will of the Lord therein revealed.</p>
+            <p>But as for ſuch principles and actions, as are cleerly ſin<g ref="char:EOLhyphen"/>ful, and not any matter of conſcience; be it contrary to the firſt or ſecond Table, as ſweering, curſing, and tumul<g ref="char:EOLhyphen"/>tuous
+<pb n="15" facs="tcp:46606:10"/> diſobedience, or what-ever cleerly flowes from cor<g ref="char:EOLhyphen"/>rupt and degenerated Nature, and is contrary to the Law of Nature it ſelf; I judge is the Magiſtrates duty to take cognizance of: For the original of Magiſterial power was to correct the exorbitancie of mankind in the fall; that ſo they might live peaceable together; for had not man fallen, there had been no need of Magiſtracy, but man be<g ref="char:EOLhyphen"/>ing fallen, Magiſtracie was ordained of God, for the puniſh<g ref="char:EOLhyphen"/>ment of the evill doers in this eſtate; and there was no o<g ref="char:EOLhyphen"/>ther end, nor is there any other work for Magiſtrates; though God did for a time commit a power to the typical Magiſtracy of the Jews, which lead to Chriſt, and is (as hath already been ſaid) natively devolved into Chriſt, and all things of the coeleſtial and ſoul-concernment, is in his hand; ſo that the work and duty of Magiſtrates, as Ma<g ref="char:EOLhyphen"/>giſtrates, I ſhall preſent in theſe Scriptures, Pſa. 82. 3, 4. <hi>De<g ref="char:EOLhyphen"/>fend the poor, and fatherleſs; do juſtice to the a<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>fiicted and needy; deliver the poor and needy, rid them out of the hand of the wicked; Rom. 13. 3. 4. 1 Pet.</hi> 2 13, 14.</p>
+            <p>Q. Is it not the Magiſtrates duty to puniſh Blaſphemy?</p>
+            <p>A. I ſuppoſe it is, being rightly underſtood what Blaſ<g ref="char:EOLhyphen"/>phemy is, not what men call or ſuggeſt to be Blaſphemy: Blaſphemy being evill, or wicked ſpeaking, or curſing ei<g ref="char:EOLhyphen"/>ther of God or man. And this I do judge, that the Magi<g ref="char:EOLhyphen"/>ſtrate ought to make proviſion againſt, it being no matter of conſcience, but palpable wickedneſs, to ſpeak evill of, or curſe either God or men; though I do not think it ſhould be puniſhed with death, as in the Old Teſtament, (i. e.) Blaſphemy againſt God, that Church and State being typical, and the cenſures are to be exerciſed by Chriſt in the Church here, cutting off from the Church, and will be eternally judged by Chriſt hereafter, if repentance pre<g ref="char:EOLhyphen"/>vent not.</p>
+            <p>And further, it ſeems to be that which is ſeated as a Law in Nature, and that in the Heathen in this caſe, to preſerve the honor of their gods, much more of a profeſſing Chri<g ref="char:EOLhyphen"/>ſtian Magiſtrate, Acts 19. 37. which cannot be, if this of
+<pb n="16" facs="tcp:46606:11"/> Blaſphemy be permitted; it's evident that there was no Law among the Heathen to compell to the Worſhip of their Gods, and forbid the preaching of another way; for in as much as they had not been Robbers of Churches, (i. e.) taken out of their con<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ecrated places, nor blaſphemed their Godneſs, there was nought againſt them; ſo that in a word, (to conclude) it behoves Magiſtrates to have re<g ref="char:EOLhyphen"/>ſpect unto this, onely let them be heedfull what they call Blaſphemy, leſt they themſelves ſhould blaſpheme; for perſons to have a d<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ffering apprehenſion in matters di<g ref="char:EOLhyphen"/>vine<g ref="char:punc">▪</g> although it may bee of things that are of higheſt concernment, believing it to be the truth of God, though probably they may be miſtaken in their underſtanding, is not Blaſphemy, but that which may and ought to be left to the Lord and the Church; <hi>For to his own Maſter hee ſtand<g ref="char:EOLhyphen"/>e<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>h <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>r falleth.</hi> This teſtimony for the Lord I leave with you, as a word that may be of uſe unto you (if imbraced) for almoſt all Magiſtrates have aſsumed Chriſts Throne, and the People have been willing to have it ſo; inſomuch that the generality of people in the world, have knowne no other Lord nor Law-giver, but the Magiſtrate even in divine things. And this I judge to be one part of the Lords work at this day, to untwiſt this knot, i. e. unity of Church and State, and to let the oppreſsed go free. Amen.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
